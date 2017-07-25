@@ -53,3 +53,6 @@ dkms.conf
 
 # Vim's tmp files
 *.swp
+
+build/
+.ycm_extra_conf.py
